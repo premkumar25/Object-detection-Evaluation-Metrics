@@ -90,7 +90,7 @@ By default IOU threshold value is: `0.5`
 By default Confidence threshold values ranges from: `0.1-1.0 (with a step change of 0.05)'
 - You can modify this values according to your requirement
 
-Note: Configuration and arguments are same as `pascalvoc.py`. Refer **Optional arguments** in [Readme](README_pascalvoc.md) for arguments and configurations. 
+Note: Configuration and arguments are same as `pascalvoc.py`. Refer **Optional arguments** in [Readme](README_base.md) for arguments and configurations. 
 All the file paths and optional arguements for this code is present in `settings.py` 
 
 ###### Optional:
